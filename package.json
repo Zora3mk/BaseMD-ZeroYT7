@@ -1,7 +1,7 @@
 {
-"name": "ZeroYT7",
+"name": "Zora",
 "version": "1.2.3",
-"description": "Please A Subscribe Me On Youtube Zero YT7",
+"description": "ZoraBot",
 "main": "md.js",
 "type": "commonjs",
 "scripts": {
@@ -63,10 +63,10 @@
 "devDependencies": {},
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Zero-YT7/BaseMD-ZeroYT7.git"
+"url": "git+https://github.com/Zora3mk/BaseMD-ZeroYT7.git"
 },
 "bugs": {
-"url": "https://github.com/Zero-YT7/BaseMD-ZeroYT7/issues"
+"url": "https://github.com/Zora3mk/BaseMD-ZeroYT7/issues"
 },
-"homepage": "https://github.com/Zero-YT7/BaseMD-ZeroYT7#readme"
+"homepage": "https://github.com/Zora3mk/BaseMD-ZeroYT7#readme"
 }
